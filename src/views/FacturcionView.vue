@@ -8,7 +8,9 @@
 export default {
   data() {
     return {
-      facturas: Array()
+      facturas: Array(),
+      text: ''
+
     }
   },
   created() {

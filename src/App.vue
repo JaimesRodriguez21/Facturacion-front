@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/facturacion">Facturacion</router-link> |
-      <router-link to="/eliminar">Eliminar</router-link>
+      <router-link to="/eliminar">Eliminar</router-link> |
+      <router-link to="/facturaID">Factura-ID</router-link>
     </nav>
     <router-view/>
   </div>
